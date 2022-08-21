@@ -74,6 +74,8 @@ def hello():
 docker build -t my-python-app .
 ```
 
+<img width="1167" alt="01" src="https://user-images.githubusercontent.com/40290711/185811522-2d1d7a25-e9a6-4166-a6c1-e128a69f0463.png">
+
 #### Step 4: Run the container
 
 > Run the container, opening up a bash shell
@@ -82,4 +84,3 @@ docker build -t my-python-app .
 
 # The End
 
-<img width="1167" alt="01" src="https://user-images.githubusercontent.com/40290711/185811522-2d1d7a25-e9a6-4166-a6c1-e128a69f0463.png">
